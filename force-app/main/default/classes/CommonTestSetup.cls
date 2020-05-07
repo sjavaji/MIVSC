@@ -26,7 +26,7 @@ private class CommonTestSetup {
 
         // Modify first account
 
-        acct.Phone = '555-1212-444';
+        acct.Phone = '555-1212-666';
 
         // This update is local to this test method only.
 
